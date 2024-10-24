@@ -1,0 +1,5 @@
+interface language {
+string name; ///public static final string name
+void getType(); //public abstruct void getType();
+void getVersion();//public abstract voidgetVersion();
+}
